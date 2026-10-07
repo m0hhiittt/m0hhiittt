@@ -30,7 +30,7 @@
 <text class="t d" x="360" y="42.5">----------------------------------------------</text>
 <text class="t" x="360" y="57.0" xml:space="preserve"><tspan class="k">Role:</tspan><tspan class="d"> ................... </tspan><tspan>Software Developer</tspan></text>
 <text class="t" x="360" y="71.5" xml:space="preserve"><tspan class="k">Stack:</tspan><tspan class="d"> .................. </tspan><tspan>React, .NET, C#, Azure</tspan></text>
-<text class="t" x="360" y="86.0" xml:space="preserve"><tspan class="k">DevOps:</tspan><tspan class="d"> ................. </tspan><tspan>Docker, Kubernetes, Jenkins, Terraform</tspan></text>
+<text class="t" x="360" y="86.0" xml:space="preserve"><tspan class="k">DevOps:</tspan><tspan class="d"> ................. </tspan><tspan>Docker, Jenkins, Terraform</tspan></text>
 <text class="t" x="360" y="100.5" xml:space="preserve"><tspan class="k">Database:</tspan><tspan class="d"> ............... </tspan><tspan>MS SQL Server</tspan></text>
 <text class="t" x="360" y="129.5" xml:space="preserve"><tspan class="k">Working.On:</tspan><tspan class="d"> ............. </tspan><tspan>TranscribeVideo</tspan></text>
 <text class="t" x="360" y="144.0" xml:space="preserve"><tspan class="k">Learning:</tspan><tspan class="d"> ............... </tspan><tspan>Azure &amp; DevOps</tspan></text>
