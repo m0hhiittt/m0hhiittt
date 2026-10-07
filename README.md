@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohit Arora</h1>
-<h3 align="center">A software developer focused on React, .NET, Azure & DevOps</h3>
-
 <div align="center">
   <img src="./neofetch.svg" alt="m0hhiittt neofetch" width="100%" />
 </div>
