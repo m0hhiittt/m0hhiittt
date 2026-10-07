@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mohit Arora</h1>
 <div align="center">
   <img src="./neofetch.svg" alt="m0hhiittt neofetch" width="100%" />
 </div>
